@@ -1,0 +1,16 @@
+body{
+  background-image: url(images.jpg);
+
+}
+h1{
+text-align:center;
+color:blue;
+}
+#video{
+  height:300;
+  width:400;
+  position:relative;
+}
+#audio{
+  position:absolute;
+}
