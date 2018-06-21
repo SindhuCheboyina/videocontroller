@@ -1,16 +1,29 @@
 body{
-  background-image: url(images.jpg);
+  background-color:#ddd;
 
 }
 h1{
 text-align:center;
 color:blue;
 }
+.left{
+  width:50%;
+  float: left;
+  margin:3px
+}
+.right{
+  width:45%;
+  float: right;
+}
 #video{
   height:300;
   width:400;
   position:relative;
 }
+#vid1{
+  height:300px;
+  width:300;
+}
 #audio{
-  position:absolute;
+  position:relative;
 }
